@@ -1,8 +1,6 @@
+https://github.com/kr8tiv-io/.github/releases/download/v1.0.0/banner.mp4
+
 <div align="center">
-
-<video src="https://github.com/kr8tiv-io/.github/raw/main/profile/banner.mp4" autoplay loop muted playsinline width="100%"></video>
-
-<br />
 
 ### Your Creative Co-Conspirators in Building Unforgettable Brands
 
