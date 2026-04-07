@@ -1,6 +1,6 @@
 <div align="center">
 
-https://github.com/kr8tiv-io/.github/raw/main/profile/banner.mp4
+<video src="https://github.com/kr8tiv-io/.github/raw/main/profile/banner.mp4" autoplay loop muted playsinline width="100%"></video>
 
 <br />
 
