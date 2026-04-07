@@ -1,6 +1,8 @@
-https://github.com/kr8tiv-io/.github/releases/download/v1.0.0/banner.mp4
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/kr8tiv-io/.github/main/profile/banner.gif" alt="kr8tiv.io — open source everything" width="100%" />
+
+<br />
 
 ### Your Creative Co-Conspirators in Building Unforgettable Brands
 
