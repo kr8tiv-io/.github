@@ -47,12 +47,23 @@ If we're not the right fit, we'll tell you immediately. No point wasting anyone'
 
 ---
 
+## ⚡ Latest Build — April 2026
+
+[**Shane Roofing Guru**](https://github.com/kr8tiv-io/shane-roofing-guru) — Newfoundland's BBB A+ roofer goes from no-website to one of the most cinematic single-page sites on the rock. Three.js volumetric fog, interactive snow particles, GSAP-pinned horizontal job gallery, two live windy.com webcams + real-time Open-Meteo weather, structured-data SEO, mailto quote-form (zero recurring service cost). Built for a man with one pair of boots and 14 winters under him.
+
+> *"If Shane won't go up — nobody will."*
+
+[**View build →**](https://github.com/kr8tiv-io/shane-roofing-guru) · [**Live →**](https://mediumblue-fish-694323.hostingersite.com/)
+
+---
+
 ## The Portfolio — Things We've Designed & Built
 
 Every one of these is open source. Because we eat our own cooking.
 
 | Site | What We Built | Stack | Repo |
 |------|--------------|-------|------|
+| [**Shane Roofing Guru**](https://mediumblue-fish-694323.hostingersite.com/) | Saint John's NL roofer — cinematic WebGL splash, GSAP gallery, live cams, BBB A+ schema, mailto form. Trade-direct, built on the rock. | Three.js, GSAP, vanilla CSS | [`shane-roofing-guru`](https://github.com/kr8tiv-io/shane-roofing-guru) |
 | [**auroraventures.agency**](https://auroraventures.agency) | Aurora Ventures — our own VC studio. Quiet infrastructure for the next internet. | Next.js, Framer Motion | [`Aurora-Ventures-Website`](https://github.com/kr8tiv-io/Aurora-Ventures-Website) |
 | [**meetyourkin.com**](https://meetyourkin.com) | KIN AI Companion Platform — 3D creatures, soul authoring, the works. Our flagship. | Next.js 15, Three.js, R3F | [`Kinbykr8tiv-website`](https://github.com/kr8tiv-io/Kinbykr8tiv-website) |
 | [**kr8tiv.ai**](https://www.kr8tiv.ai) | Our AI branch — autonomous content creation meets the singularity. | Next.js, Tailwind | [`kr8tiv-ai-website`](https://github.com/kr8tiv-io/kr8tiv-ai-website) |
