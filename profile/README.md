@@ -63,19 +63,15 @@ Every one of these is open source. Because we eat our own cooking.
 
 | Site | What We Built | Stack | Repo |
 |------|--------------|-------|------|
-| [**Shane Roofing Guru**](https://mediumblue-fish-694323.hostingersite.com/) | Saint John's NL roofer — cinematic WebGL splash, GSAP gallery, live cams, BBB A+ schema, mailto form. Trade-direct, built on the rock. | Three.js, GSAP, vanilla CSS | [`shane-roofing-guru`](https://github.com/kr8tiv-io/shane-roofing-guru) |
-| [**auroraventures.agency**](https://auroraventures.agency) | Aurora Ventures — our own VC studio. Quiet infrastructure for the next internet. | Next.js, Framer Motion | [`Aurora-Ventures-Website`](https://github.com/kr8tiv-io/Aurora-Ventures-Website) |
+| [**2240 Speed Shop**](https://github.com/kr8tiv-io/2240-speedshop) | Cinematic 3D website for an Edmonton customs garage. React Three Fiber, scroll-driven narratives, and SEO-optimized architecture. | React, R3F, Next.js | [`2240-speedshop`](https://github.com/kr8tiv-io/2240-speedshop) |
+| [**Final Finish Epoxy**](https://github.com/kr8tiv-io/final-finish-epoxy) | Cinematic Edmonton epoxy flooring site. Scroll-driven GSAP film, Three.js dissolve veil. | React, Three.js, GSAP | [`final-finish-epoxy`](https://github.com/kr8tiv-io/final-finish-epoxy) |
+| [**Evolve Rebrand**](https://github.com/kr8tiv-io/Evolve-Rebrand) | Commercial surface restoration rebrand and full identity system. | Figma, Print | [`Evolve-Rebrand`](https://github.com/kr8tiv-io/Evolve-Rebrand) |
+| [**Aura Homes**](https://github.com/kr8tiv-io/aurahomes-site) | Brand and 3D story website for Aura Homes - sustainable, off-grid eco-construction in Alberta. | WebGL, React | [`aurahomes-site`](https://github.com/kr8tiv-io/aurahomes-site) |
+| [**Evolve Lifestyle**](https://github.com/kr8tiv-io/evolve-lifestyle) | Complete lifestyle and brand asset package for Evolve. | Photography, Design | [`evolve-lifestyle`](https://github.com/kr8tiv-io/evolve-lifestyle) |
+| [**Wye Road Listing**](https://github.com/kr8tiv-io/wye-road-listing-backup) | Cinematic single-property real-estate listing site snapshot. | Vanilla JS, GSAP | [`wye-road-listing-backup`](https://github.com/kr8tiv-io/wye-road-listing-backup) |
+| [**Evolved MCP Cloud**](https://github.com/kr8tiv-io/evolvedmcp-cloud) | Landing page and interactive playground for Evolved - the MCP business-in-a-box agent. | React, Tailwind | [`evolvedmcp-cloud`](https://github.com/kr8tiv-io/evolvedmcp-cloud) |
+| [**Shane Roofing Guru**](https://mediumblue-fish-694323.hostingersite.com/) | Saint John's NL roofer — cinematic WebGL splash, GSAP gallery, live cams, BBB A+ schema. | Three.js, GSAP | [`shane-roofing-guru`](https://github.com/kr8tiv-io/shane-roofing-guru) |
 | [**meetyourkin.com**](https://meetyourkin.com) | KIN AI Companion Platform — 3D creatures, soul authoring, the works. Our flagship. | Next.js 15, Three.js, R3F | [`Kinbykr8tiv-website`](https://github.com/kr8tiv-io/Kinbykr8tiv-website) |
-| [**kr8tiv.ai**](https://www.kr8tiv.ai) | Our AI branch — autonomous content creation meets the singularity. | Next.js, Tailwind | [`kr8tiv-ai-website`](https://github.com/kr8tiv-io/kr8tiv-ai-website) |
-| [**kr8tiv.io**](https://www.kr8tiv.io) | The agency itself. Had to eat our own cooking on this one. | Next.js, GSAP | [`kr8tiv-website`](https://github.com/kr8tiv-io/kr8tiv-website) |
-| [**wethesavage.com**](https://wethesavage.com) | Savage Fit — online fitness coaching for an IFBB Pro. Client build. | Next.js, Tailwind | [`savage-fit-website`](https://github.com/kr8tiv-io/savage-fit-website) |
-| **jarvislife.io** | Jarvis LifeOS — landing page for the AI trading bot that sometimes listens. | Next.js | [`Jarvis-by-Kr8tiv-Website`](https://github.com/kr8tiv-io/Jarvis-by-Kr8tiv-Website) |
-| [**matthaynes.fun**](https://matthaynes.fun) | Matt's personal portfolio. Built at 3am. No regrets. | Next.js | [`matthaynes-website`](https://github.com/kr8tiv-io/matthaynes-website) |
-| **Coming Clean** | Book sales landing page — conversion-optimized. Client project. | HTML, CSS, JS | [`Coming-Clean-Book-Landing-Page`](https://github.com/kr8tiv-io/Coming-Clean-Book-Landing-Page) |
-| **Evolve** | Commercial surface restoration rebrand. Full identity system. Client project. | Figma, Print | [`Evolve-Rebrand`](https://github.com/kr8tiv-io/Evolve-Rebrand) |
-| **Pinky and the Brain** | $BRAIN token ecosystem site — yes it's as fun as it sounds. | Next.js, Tailwind | [`Pinkyandthebrain`](https://github.com/kr8tiv-io/Pinkyandthebrain) |
-| **KIN by KR8TIV** | KIN product microsite — companion showcase and onboarding. | React | [`kin-by-kr8tiv`](https://github.com/kr8tiv-io/kin-by-kr8tiv) |
-| **Spacesbooking** | Booking app for X spaces automation. | Web App | [`Spacesbooking`](https://github.com/kr8tiv-io/Spacesbooking) |
 
 ---
 
