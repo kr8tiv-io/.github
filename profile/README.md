@@ -75,6 +75,7 @@ Every one of these is open source. Because we eat our own cooking.
 | **Evolve** | Commercial surface restoration rebrand. Full identity system. Client project. | Figma, Print | [`Evolve-Rebrand`](https://github.com/kr8tiv-io/Evolve-Rebrand) |
 | **Pinky and the Brain** | $BRAIN token ecosystem site — yes it's as fun as it sounds. | Next.js, Tailwind | [`Pinkyandthebrain`](https://github.com/kr8tiv-io/Pinkyandthebrain) |
 | **KIN by KR8TIV** | KIN product microsite — companion showcase and onboarding. | React | [`kin-by-kr8tiv`](https://github.com/kr8tiv-io/kin-by-kr8tiv) |
+| **Spacesbooking** | Booking app for X spaces automation. | Web App | [`Spacesbooking`](https://github.com/kr8tiv-io/Spacesbooking) |
 
 ---
 
